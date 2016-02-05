@@ -1,0 +1,1 @@
+Static file directory that is populated with remote agent files by the Portal.
